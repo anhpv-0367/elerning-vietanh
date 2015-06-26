@@ -1,1 +1,4 @@
-users:
+models:
+  maximum: 50
+  minimum: 6
+
