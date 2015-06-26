@@ -20,4 +20,7 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
+
+  base_title: "Ruby on Rails Tutorial Sample App"
+
   hello: "Hello world"
