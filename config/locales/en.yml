@@ -20,10 +20,11 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
-
+  controllers:
+    welcome: "Welcome to the Learning!"
   helpers:
 
-    base_title: "Ruby on Rails Tutorial Sample App"
+    base_title: "Ruby on Rails Tutorial Learning"
 
   layouts:
     name : "learning"
@@ -35,5 +36,5 @@ en:
     name6: "Sign up now!"
   users:
     name: "Sign up"
-
-
+    confirmation: "Confirmation"
+    submit: "Create my account"
