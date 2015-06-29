@@ -21,6 +21,19 @@
 
 en:
 
-  base_title: "Ruby on Rails Tutorial Sample App"
+  helpers:
 
-  hello: "Hello world"
+    base_title: "Ruby on Rails Tutorial Sample App"
+
+  layouts:
+    name : "learning"
+    name1: "About"
+    name2: "Contact"
+    name3: "Home"
+    name4: "Help"
+    name5: "Log in"
+    name6: "Sign up now!"
+  users:
+    name: "Sign up"
+
+
