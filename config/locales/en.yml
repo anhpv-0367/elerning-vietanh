@@ -21,19 +21,29 @@
 
 en:
   controllers:
-    welcome: "Welcome to the Learning!"
-  helpers:
+    welcome: "Welcome to the E-learning!"
+    flash: "Invalid email/password combination"
 
+  helpers:
     base_title: "Ruby on Rails Tutorial Learning"
 
   layouts:
-    name : "learning"
+    name : "E-learning"
     name1: "About"
     name2: "Contact"
     name3: "Home"
     name4: "Help"
     name5: "Log in"
     name6: "Sign up now!"
+    users: "Users"
+    profile: "Profile"
+    settings: "Settings"
+    logout: "Log out"
+    login: "Log in"
+
+  shared:
+    error: "error"
+
   users:
     name: "Sign up"
     confirmation: "Confirmation"

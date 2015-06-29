@@ -1,3 +1,5 @@
+controller:
+  params: 1
 helpers:
   size: 80
 
